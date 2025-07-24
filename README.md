@@ -1,7 +1,7 @@
 <div align="center">
 <h2>Fine-structure Preserved Real-world Image Super-resolution via Transfer VAE Training</h2>
 
-�� Accepted by ICCV2025
+🚩 Accepted by ICCV2025
 [Qiaosi Yi](https://dblp.org/pid/249/8335.html)<sup>1,2</sup>
 | [Shuai Li](https://scholar.google.com/citations?hl=zh-CN&user=Bd73ldQAAAAJ)<sup>1</sup>
 | [Rongyuan Wu](https://scholar.google.com/citations?user=A-U8zE8AAAAJ&hl=zh-CN)<sup>1,2</sup> |
