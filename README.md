@@ -20,7 +20,6 @@
 :star: If TVT is helpful to your images or projects, please help star this repo. Thanks! :hugs:
 
 
-
 ### Citations
 If our code helps your research or work, please consider citing our paper.
 The following are BibTeX references:
