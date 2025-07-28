@@ -1,0 +1,1 @@
+You can download the model weights from [🤗](https://huggingface.co/Joypop/TVTSR) and put them in this folder.
