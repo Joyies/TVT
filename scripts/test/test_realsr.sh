@@ -1,0 +1,12 @@
+python TVT/inferences/inference.py \
+--input_image input_path \
+--output_dir output_path \
+--pretrained_path ckp/model_TVT.pkl \
+--pretrained_model_name_or_path stabilityai/stable-diffusion-2-1-base \
+--pretrained_unet_path ckp/TVTUNet \
+--vae4d_path ckp/vae.ckpt \
+--ram_ft_path ckp/DAPE.pth \
+--negprompt 'dotted, noise, blur, lowres, smooth' \
+--prompt 'clean, high-resolution, 8k' \
+--upscale 4 \
+--time_step 1
