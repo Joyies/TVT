@@ -78,7 +78,7 @@ python TVT/inferences/inference_tile.py \
 --tiled_overlap 32
 ```
 
-## 🚋 Train 
+## 🚄 Train 
 #### Step1: Prepare training data
 
 Download the [LSIDR dataset](https://github.com/ofsoundof/LSDIR) and the first 10k [FFHQ dataset](https://github.com/NVlabs/ffhq-dataset). Subsequently, perform data augmentation on the training dataset. Specifically, for each image in the LSDIR dataset, crop multiple 512×512 image patches using a sliding window with a stride of 64 pixels; for the FFHQ dataset, directly resize all images to 512×512.
