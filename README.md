@@ -20,6 +20,11 @@
 
 :star: If TVT is helpful to your images or projects, please help star this repo. Thanks! :hugs:
 
+### TODO 
+- [x] Release the code for inference.
+- [x] Update the code for training.
+- [ ] fp16 VAED4.
+
 
 ## ⚙ Dependencies and Installation
 ```shell
