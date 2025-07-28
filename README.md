@@ -15,7 +15,7 @@
 
 
 ## ⏰ Update
-- **2025.7.24**: The repo are released.
+- **2025.7.24**: The repo is released.
 
 :star: If TVT is helpful to your images or projects, please help star this repo. Thanks! :hugs:
 
