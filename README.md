@@ -1,7 +1,7 @@
 <div align="center">
 <h2>Fine-structure Preserved Real-world Image Super-resolution via Transfer VAE Training</h2>
 
-🚩 Accepted by ICCV2025
+🚩 Accepted by ICCV2025  <a href='https://arxiv.org/pdf/2507.20291'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 [Qiaosi Yi](https://dblp.org/pid/249/8335.html)<sup>1,2</sup>
 | [Shuai Li](https://scholar.google.com/citations?hl=zh-CN&user=Bd73ldQAAAAJ)<sup>1</sup>
