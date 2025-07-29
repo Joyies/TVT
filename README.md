@@ -1,7 +1,7 @@
 <div align="center">
 <h2>Fine-structure Preserved Real-world Image Super-resolution via Transfer VAE Training</h2>
 
-🚩 Accepted by ICCV2025  <a href='https://arxiv.org/pdf/2507.20291'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+🚩 Accepted by ICCV2025
 
 [Qiaosi Yi](https://dblp.org/pid/249/8335.html)<sup>1,2</sup>
 | [Shuai Li](https://scholar.google.com/citations?hl=zh-CN&user=Bd73ldQAAAAJ)<sup>1</sup>
@@ -13,7 +13,7 @@
 <sup>1</sup>The Hong Kong Polytechnic University, <sup>2</sup>OPPO Research Institute
 </div>
 
-[![paper](https://img.shields.io/badge/%F0%9F%A4%97%20Arxiv%20-Paper-red)](https://arxiv.org/pdf/2507.20291)&nbsp; [![weights](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-model%20weights-blue)](https://huggingface.co/Joypop/TVTSR/tree/main)&nbsp
+[![paper](https://img.shields.io/badge/%F0%9F%A4%97%20Arxiv%20-Paper-red)](https://arxiv.org/pdf/2507.20291)&nbsp; [![weights](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-model%20weights-blue)](https://huggingface.co/Joypop/TVTSR/tree/main)
 
 ## ⏰ Update
 - **2025.7.29**: Paper Published.
