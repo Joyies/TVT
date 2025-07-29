@@ -146,7 +146,7 @@ Download the [LSIDR dataset](https://github.com/ofsoundof/LSDIR) and the first 1
    bash scripts/train/train.sh
     ```
 
-### Citations
+## 🔗 Citations
 If our code helps your research or work, please consider citing our paper.
 The following are BibTeX references:
 
@@ -159,13 +159,13 @@ The following are BibTeX references:
 }
 ```
 
-### License
+## ©️ License
 This project is released under the [Apache 2.0 license](LICENSE).
 
-### Acknowledgement
+## 👍 Acknowledgement
 This project is based on [diffusers](https://github.com/huggingface/diffusers), [LDM](https://github.com/CompVis/latent-diffusion), [OSEDiff](https://github.com/cswry/OSEDiff) and [PiSA-SR](https://github.com/csslc/PiSA-SR). Thanks for the awesome work. 
 
-### Contact
+## 📧 Contact
 If you have any questions, please contact: qiaosiyijoyies@gmail.com
 
 
