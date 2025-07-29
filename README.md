@@ -15,6 +15,7 @@
 
 
 ## ⏰ Update
+- **2025.7.29**: Paper Published.
 - **2025.7.28**: The training code and testing code are released.
 - **2025.7.24**: The repo is released.
 
