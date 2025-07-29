@@ -162,7 +162,7 @@ The following are BibTeX references:
 ## ©️ License
 This project is released under the [Apache 2.0 license](LICENSE).
 
-## 👍 Acknowledgement
+## Acknowledgement
 This project is based on [diffusers](https://github.com/huggingface/diffusers), [LDM](https://github.com/CompVis/latent-diffusion), [OSEDiff](https://github.com/cswry/OSEDiff) and [PiSA-SR](https://github.com/csslc/PiSA-SR). Thanks for the awesome work. 
 
 ## 📧 Contact
