@@ -92,7 +92,7 @@ python TVT/inferences/inference_tile.py \
 
 ### Train VAED4 on the OpenImage dataset and LSDIR dataset.
 #### Step1: Prepare training data
-Download the [OpenImage dadaset](https://storage.googleapis.com/openimages/web/index.html) and [LSIDR dataset](https://github.com/ofsoundof/LSDIR). For each image in the LSDIR dataset, crop multiple 512×512 image patches using a sliding window with a stride of 64 pixels;
+Download the [OpenImage dataset](https://storage.googleapis.com/openimages/web/index.html) and [LSIDR dataset](https://github.com/ofsoundof/LSDIR). For each image in the LSDIR dataset, crop multiple 512×512 image patches using a sliding window with a stride of 64 pixels;
 
 #### Step2: Train VAED4
 The [LDM code](https://github.com/CompVis/latent-diffusion) is used to train VAED4. 
