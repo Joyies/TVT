@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ### Real-world Image Super-resolution
 
 #### Step 1: Download the pretrained models
-- Download the pretrained SD-2.1-base models from [![weights](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SD%202.1%20Base-blue)](https://huggingface.co/stabilityai/stable-diffusion-2-1-base)&nbsp;
+- Download the pretrained SD-2.1-base models from [![weights](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SD%202.1%20Base-blue)](https://huggingface.co/Joypop/stable-diffusion-2-1-base)&nbsp;
 - Download the model weights ([VAED4](https://huggingface.co/Joypop/TVTSR/tree/main/ckp), [TVT model](https://huggingface.co/Joypop/TVTSR/tree/main/ckp), [TVTUNet](https://huggingface.co/Joypop/TVTSR/tree/main/ckp), [DAPE](https://huggingface.co/Joypop/TVTSR/tree/main/ckp), and [RAM](https://huggingface.co/Joypop/TVTSR/tree/main/ckp)) from [![weights](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-model%20weights-blue)](https://huggingface.co/Joypop/TVTSR/tree/main)&nbsp; and put the model weights in the `ckp/`:
 
 #### Step 2: Prepare testing data and run testing command 
