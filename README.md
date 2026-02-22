@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Joyies&project=TVT&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 <div align="center">
 <h2>Fine-structure Preserved Real-world Image Super-resolution via Transfer VAE Training</h2>
 
