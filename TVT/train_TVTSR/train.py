@@ -97,7 +97,6 @@ def main(args):
         if "lora" in n or 'down_blocks.0' in n or 'up_blocks.3.upsamplers.0' in n or 'up_blocks.4' in n or 'conv_in' in n or 'conv_out' in n:
             assert _p.requires_grad
             layers_to_opt.append(_p) 
-    layers_to_opt += list(TVTSR.unet.conv_in.parameters()) 
 
     optimizer = torch.optim.AdamW(layers_to_opt, lr=args.learning_rate,
         betas=(args.adam_beta1, args.adam_beta2), weight_decay=args.adam_weight_decay,
